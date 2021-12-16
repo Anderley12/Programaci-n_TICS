@@ -15,8 +15,5 @@ convert -size 2048x1536 $file -thumbnail 800x600 fotoblog/foto_$file
 done
 echo “Listo!
 
-convert fotodiagrama.jpg -rotate 90 diagrama.jpg
-
-echo
 
 
