@@ -1,2 +1,2 @@
-convert sumadevariosnumeros.jpg -rotate 90
+convert sumadevariosnumeros.jpg -rotate 90 sumadevariosnumeros.jpg
 
